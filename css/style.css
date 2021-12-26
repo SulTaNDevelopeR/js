@@ -1,0 +1,33 @@
+
+body{
+  
+}
+
+.container , #Result , #output{
+    margin: auto;
+    width: 70%;
+    border: 1px solid brown;
+    padding: 24px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    
+    
+    
+}
+.button{
+    text-align: center;
+    margin: auto 0;
+}
+.statement{
+    text-align: center;
+    margin-top: 10px;
+}
+.output{
+    text-align: center;
+    margin-top: 10px;
+}
+#Result{
+    text-align: center;
+    font-size: large;
+
+}
